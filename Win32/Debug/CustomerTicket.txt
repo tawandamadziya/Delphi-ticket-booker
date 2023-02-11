@@ -1,0 +1,29 @@
+Date of Departure: 5/5/2020
+Destination: Cape Town
+Name: Ronald
+Surname: McDonald
+Price: $4,800.00
+
+Date of Departure: 5/5/2020
+Destination: Pretoria
+Name: GAF
+Surname: MAND
+Price: $2,400.00
+ 
+Date of Departure: 5/11/2020
+Destination: Johannesburg
+Name: Tawanda
+Surname: Madziya
+Price: $3,600.00
+ 
+Date of Departure: 7/15/2020
+Destination: Pretoria
+Name: Michael
+Surname: Isufu
+Price: $3,600.00
+ 
+Date of Departure: 7/31/2020
+Destination: Port Elizabeth
+Name: Jack
+Surname: Grilish
+Price: $4,800.00
